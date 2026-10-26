@@ -57,16 +57,16 @@
 <table>
   <thead><tr><th>Mode</th><th>Best for</th><th>How it works</th></tr></thead>
   <tbody>
-    <tr><td><strong>Fast &middot; Original Quality</strong></td><td>Quick exports with the original encoded quality</td><td>Copies media without re-encoding into <code>.mov</code> files. Cuts may follow keyframe boundaries rather than your exact markers.</td></tr>
+    <tr><td><strong>Fast &middot; Original Quality</strong></td><td>Quick exports with the original encoded quality</td><td>Copies media without re-encoding into either <code>.mov</code> or <code>.mp4</code> files. Cuts may follow keyframe boundaries rather than your exact markers.</td></tr>
     <tr><td><strong>Precise &middot; Re-Encode</strong></td><td>Cuts that closely follow your selected markers</td><td>Re-encodes selected ranges into <code>.mp4</code> files. Takes longer, and compression can change the image quality and file size.</td></tr>
   </tbody>
 </table>
 <p>Playback speed changes your preview only. Exported clips retain normal playback speed.</p>
-<p>Exports are organized automatically:</p>
-<pre><code>TrimWasp-Clips-GX010564/
-  TrimWasp-Clip-1-GX010564.mov
-  TrimWasp-Clip-2-GX010564.mov
-  TrimWasp-Clip-3-GX010564.mov</code></pre>
+<p>Exports are organized automatically (using .mov as an example):</p>
+<pre><code>TrimWasp-Clips-FileName/
+  TrimWasp-Clip-1-FileName.mov
+  TrimWasp-Clip-2-FileName.mov
+  TrimWasp-Clip-3-FileName.mov</code></pre>
 
 <h2>Keyboard shortcuts</h2>
 <table>
