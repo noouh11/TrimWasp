@@ -1,0 +1,29 @@
+{
+  "app": "TrimWasp",
+  "colors": {
+    "accentText": "#E9E2DD",
+    "button": "#BB0EF0",
+    "card": "#FFFFFF0B",
+    "cardBorder": "#FFFFFF12",
+    "cardSelection": "#BB0EF026",
+    "cardSelectionBorder": "#BB0EF0",
+    "inputBackground": "#353535",
+    "inputText": "#EEEEEE",
+    "marker": "#BB0EF0",
+    "panel": "#252627",
+    "playhead": "#FFFFFF",
+    "primaryText": "#EEEEEE",
+    "progress": "#BB0EF0",
+    "progressTrack": "#FFFFFF14",
+    "queueSelection": "#BB0EF059",
+    "queuedRange": "#BB0EF08C",
+    "range": "#BB0EF02B",
+    "ruler": "#FFFFFF2B",
+    "secondaryText": "#999999",
+    "timelineBackground": "#252627",
+    "timelineTrack": "#FFFFFF09",
+    "videoBackground": "#000000",
+    "window": "#131416"
+  },
+  "schemaVersion": 1
+}
