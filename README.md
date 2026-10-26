@@ -12,10 +12,11 @@
 
 <hr>
 <h2>How to Build on MacOS</h2>
-<p>Download the .zip, and extract it. Then, open terminal, and run this command: </p>
+<p>Download the .zip, and extract it. Then navigate to 'TrimWasp-Mac' to ensure it downloaded properly. Then, open terminal, and run this command: </p>
 <code>bash PathToFolder/TrimWasp-Mac/Build.command</code>
 <p></p>
-<p>Don't want to build it yourself? Check out the releases to get the pre-built latest release!</p>
+<p>Then, the application should open. Once opened successfully, you can locate the built application in the <code>./TrimWasp-Mac/build/TrimWasp</code>, and drag it into your applications folder if you please.
+<p>Too many steps, or don't want to build it yourself? Check out the releases to get the pre-built latest release!</p>
 
 <h2>Just the cuts you need</h2>
 <p>TrimWasp keeps video clipping simple. Load your footage, mark the parts worth keeping, and export each selection as its own file. A clean timeline, a flexible workspace, and a handful of shortcuts keep everything within reach.</p>
